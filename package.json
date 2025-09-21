@@ -1,0 +1,23 @@
+{
+  "name": "playwright-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetanelH2/Playwright-Class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NetanelH2/Playwright-Class/issues"
+  },
+  "homepage": "https://github.com/NetanelH2/Playwright-Class#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.5.1"
+  }
+}
